@@ -3,7 +3,7 @@ int main()
 {
     float x,p;
     int sum;
-    printf("enter cofee amount and discount");
+    printf("enter coffee amount and discount");
     scanf("%f %f",&x,&p);
     sum=0;
     for(i=0;i>100;i++)
